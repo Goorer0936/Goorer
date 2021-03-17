@@ -1,4 +1,4 @@
-.theme .sidebar{
+.theme .sidebar {
   background-color : #66cdaa
 }
 
@@ -11,4 +11,8 @@
     width: 18rem;
     text-align: left;
   }
+}
+.date {
+  font-size: 15;
+  color: #808080;
 }
