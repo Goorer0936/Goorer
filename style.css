@@ -18,7 +18,7 @@ ul {
 }
 
 .sidebarnav {
-  margin-top: 300;
+  margin-top: 5em;
 }
 .date {
   font-size: 15;
@@ -60,4 +60,8 @@ h1 {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
     font-weight: bold;
+}
+
+.contents-p {
+  margin-top: 10em;
 }
