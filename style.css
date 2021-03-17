@@ -12,6 +12,14 @@
     text-align: left;
   }
 }
+
+ul {
+  list-style: none;
+}
+
+.sidebarnav {
+  margin-top: 50;
+}
 .date {
   font-size: 15;
   color: #808080;
